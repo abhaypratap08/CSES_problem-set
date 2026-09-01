@@ -54,6 +54,7 @@
 | 25 | Integer Break | LeetCode | [Open](https://leetcode.com/problems/integer-break/) |
 | 26 | Unbounded Knapsack | HackerRank | [Search](https://www.hackerrank.com/domains/algorithms/dynamic-programming) |
 | 27 | Coin Change | HackerRank | [Open](https://www.hackerrank.com/challenges/coin-change/problem) |
+| 28 | Dice Combinations | CSES | [Open](https://cses.fi/problemset/task/1633) |
 
 ---
 
@@ -61,14 +62,14 @@
 
 | # | Problem | Platform | Link |
 |---|---|---|---|
-| 28 | Decode Ways | LeetCode | [Open](https://leetcode.com/problems/decode-ways/) |
-| 29 | Word Break | LeetCode | [Open](https://leetcode.com/problems/word-break/) |
-| 30 | Word Break II | LeetCode | [Open](https://leetcode.com/problems/word-break-ii/) |
-| 31 | Longest Increasing Subsequence | LeetCode | [Open](https://leetcode.com/problems/longest-increasing-subsequence/) |
-| 32 | Number of Longest Increasing Subsequence | LeetCode | [Open](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) |
-| 33 | Longest String Chain | LeetCode | [Open](https://leetcode.com/problems/longest-string-chain/) |
-| 34 | Largest Divisible Subset | LeetCode | [Open](https://leetcode.com/problems/largest-divisible-subset/) |
-| 35 | Longest Bitonic Subsequence | HackerRank | [Search](https://www.hackerrank.com/domains/algorithms/dynamic-programming) |
+| 29 | Decode Ways | LeetCode | [Open](https://leetcode.com/problems/decode-ways/) |
+| 30 | Word Break | LeetCode | [Open](https://leetcode.com/problems/word-break/) |
+| 31 | Word Break II | LeetCode | [Open](https://leetcode.com/problems/word-break-ii/) |
+| 32 | Longest Increasing Subsequence | LeetCode | [Open](https://leetcode.com/problems/longest-increasing-subsequence/) |
+| 33 | Number of Longest Increasing Subsequence | LeetCode | [Open](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) |
+| 34 | Longest String Chain | LeetCode | [Open](https://leetcode.com/problems/longest-string-chain/) |
+| 35 | Largest Divisible Subset | LeetCode | [Open](https://leetcode.com/problems/largest-divisible-subset/) |
+| 36 | Longest Bitonic Subsequence | HackerRank | [Search](https://www.hackerrank.com/domains/algorithms/dynamic-programming) |
 
 ---
 
@@ -76,10 +77,10 @@
 
 | # | Problem | Platform | Link |
 |---|---|---|---|
-| 36 | Maximum Subarray | LeetCode | [Open](https://leetcode.com/problems/maximum-subarray/) |
-| 37 | Maximum Product Subarray | LeetCode | [Open](https://leetcode.com/problems/maximum-product-subarray/) |
-| 38 | Maximum Subarray Sum | CodeChef | [Search](https://www.codechef.com/practice/tags/dynamic-programming) |
-| 39 | Kadane's Algorithm Problems | HackerRank | [Search](https://www.hackerrank.com/domains/algorithms/dynamic-programming) |
+| 37 | Maximum Subarray | LeetCode | [Open](https://leetcode.com/problems/maximum-subarray/) |
+| 38 | Maximum Product Subarray | LeetCode | [Open](https://leetcode.com/problems/maximum-product-subarray/) |
+| 39 | Maximum Subarray Sum | CodeChef | [Search](https://www.codechef.com/practice/tags/dynamic-programming) |
+| 40 | Kadane's Algorithm Problems | HackerRank | [Search](https://www.hackerrank.com/domains/algorithms/dynamic-programming) |
 
 ---
 
@@ -87,11 +88,11 @@
 
 | # | Problem | Platform | Link |
 |---|---|---|---|
-| 40 | Partition Equal Subset Sum | LeetCode | [Open](https://leetcode.com/problems/partition-equal-subset-sum/) |
-| 41 | Target Sum | LeetCode | [Open](https://leetcode.com/problems/target-sum/) |
-| 42 | Last Stone Weight II | LeetCode | [Open](https://leetcode.com/problems/last-stone-weight-ii/) |
-| 43 | Partition | CodeChef | [Search](https://www.codechef.com/practice/tags/dynamic-programming) |
-| 44 | 0/1 Knapsack | HackerRank | [Open](https://www.hackerrank.com/challenges/unbounded-knapsack/problem) |
+| 41 | Partition Equal Subset Sum | LeetCode | [Open](https://leetcode.com/problems/partition-equal-subset-sum/) |
+| 42 | Target Sum | LeetCode | [Open](https://leetcode.com/problems/target-sum/) |
+| 43 | Last Stone Weight II | LeetCode | [Open](https://leetcode.com/problems/last-stone-weight-ii/) |
+| 44 | Partition | CodeChef | [Search](https://www.codechef.com/practice/tags/dynamic-programming) |
+| 45 | 0/1 Knapsack | HackerRank | [Open](https://www.hackerrank.com/challenges/unbounded-knapsack/problem) |
 
 ---
 
@@ -101,12 +102,12 @@
 
 | # | Problem | Platform | Link |
 |---|---|---|---|
-| 45 | Best Time to Buy and Sell Stock | LeetCode | [Open](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
-| 46 | Best Time to Buy and Sell Stock II | LeetCode | [Open](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
-| 47 | Best Time to Buy and Sell Stock III | LeetCode | [Open](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |
-| 48 | Best Time to Buy and Sell Stock IV | LeetCode | [Open](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) |
-| 49 | Best Time to Buy and Sell Stock with Cooldown | LeetCode | [Open](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |
-| 50 | Best Time to Buy and Sell Stock with Transaction Fee | LeetCode | [Open](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) |
+| 46 | Best Time to Buy and Sell Stock | LeetCode | [Open](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 47 | Best Time to Buy and Sell Stock II | LeetCode | [Open](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
+| 48 | Best Time to Buy and Sell Stock III | LeetCode | [Open](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |
+| 49 | Best Time to Buy and Sell Stock IV | LeetCode | [Open](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) |
+| 50 | Best Time to Buy and Sell Stock with Cooldown | LeetCode | [Open](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |
+| 51 | Best Time to Buy and Sell Stock with Transaction Fee | LeetCode | [Open](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) |
 
 ---
 
@@ -114,77 +115,98 @@
 
 | # | Problem | Platform | Link |
 |---|---|---|---|
-| 51 | Decode Ways | LeetCode | [Open](https://leetcode.com/problems/decode-ways/) |
-| 52 | Number of Dice Rolls With Target Sum | LeetCode | [Open](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) |
-| 53 | Number of Ways to Stay in the Same Place | LeetCode | [Open](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) |
-| 54 | Count Ways to Build Good Strings | LeetCode | [Open](https://leetcode.com/problems/count-ways-to-build-good-strings/) |
-| 55 | Combination Sum IV | LeetCode | [Open](https://leetcode.com/problems/combination-sum-iv/) |
+| 52 | Decode Ways | LeetCode | [Open](https://leetcode.com/problems/decode-ways/) |
+| 53 | Number of Dice Rolls With Target Sum | LeetCode | [Open](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) |
+| 54 | Number of Ways to Stay in the Same Place | LeetCode | [Open](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) |
+| 55 | Count Ways to Build Good Strings | LeetCode | [Open](https://leetcode.com/problems/count-ways-to-build-good-strings/) |
+| 56 | Combination Sum IV | LeetCode | [Open](https://leetcode.com/problems/combination-sum-iv/) |
 
 ---
 
-# 10. Codeforces DP Practice
+# 10. CSES DP Practice
+
+| # | Problem | Link |
+|---|---|---|
+| 57 | Removing Digits | [Open](https://cses.fi/problemset/task/1637) |
+| 58 | Dice Combinations | [Open](https://cses.fi/problemset/task/1633) |
+
+---
+
+# 11. Codeforces DP Practice
 
 These are useful Codeforces problems where the main DP state can be represented along one dimension.
 
 | # | Problem | Link |
 |---|---|---|
-| 56 | Boredom | [Open](https://codeforces.com/problemset/problem/455/A) |
-| 57 | Array Walk | [Open](https://codeforces.com/problemset/problem/1389/B) |
-| 58 | Maximum Sum | [Open](https://codeforces.com/problemset/problem/1060/C) |
-| 59 | Yet Another Subarray Problem | [Open](https://codeforces.com/problemset/problem/1197/D) |
-| 60 | Berland Regional | [Open](https://codeforces.com/problemset/problem/1519/C) |
-| 61 | Maximum White Subtree | [Open](https://codeforces.com/problemset/problem/1324/F) |
-| 62 | Books | [Open](https://codeforces.com/problemset/problem/279/B) |
-| 63 | Vacations | [Open](https://codeforces.com/problemset/problem/699/C) |
-| 64 | Little Girl and Problem on Trees | [Open](https://codeforces.com/problemset/problem/276/D) |
+| 59 | Boredom | [Open](https://codeforces.com/problemset/problem/455/A) |
+| 60 | Array Walk | [Open](https://codeforces.com/problemset/problem/1389/B) |
+| 61 | Maximum Sum | [Open](https://codeforces.com/problemset/problem/1060/C) |
+| 62 | Yet Another Subarray Problem | [Open](https://codeforces.com/problemset/problem/1197/D) |
+| 63 | Berland Regional | [Open](https://codeforces.com/problemset/problem/1519/C) |
+| 64 | Maximum White Subtree | [Open](https://codeforces.com/problemset/problem/1324/F) |
+| 65 | Books | [Open](https://codeforces.com/problemset/problem/279/B) |
+| 66 | Vacations | [Open](https://codeforces.com/problemset/problem/699/C) |
+| 67 | Little Girl and Problem on Trees | [Open](https://codeforces.com/problemset/problem/276/D) |
 
 ---
 
-# 11. AtCoder Educational DP
+# 12. AtCoder Educational DP
 
 AtCoder's Educational DP Contest is one of the best resources for learning DP systematically.
 
 | # | Problem | Link |
 |---|---|---|
-| 65 | Frog 1 | [Open](https://atcoder.jp/contests/dp/tasks/dp_a) |
-| 66 | Frog 2 | [Open](https://atcoder.jp/contests/dp/tasks/dp_b) |
-| 67 | Vacation | [Open](https://atcoder.jp/contests/dp/tasks/dp_c) |
-| 68 | Knapsack 1 | [Open](https://atcoder.jp/contests/dp/tasks/dp_d) |
-| 69 | Knapsack 2 | [Open](https://atcoder.jp/contests/dp/tasks/dp_e) |
-| 70 | LCS | [Open](https://atcoder.jp/contests/dp/tasks/dp_f) |
-| 71 | Longest Path | [Open](https://atcoder.jp/contests/dp/tasks/dp_g) |
-| 72 | Independent Set | [Open](https://atcoder.jp/contests/dp/tasks/dp_p) |
+| 68 | Frog 1 | [Open](https://atcoder.jp/contests/dp/tasks/dp_a) |
+| 69 | Frog 2 | [Open](https://atcoder.jp/contests/dp/tasks/dp_b) |
+| 70 | Vacation | [Open](https://atcoder.jp/contests/dp/tasks/dp_c) |
+| 71 | Knapsack 1 | [Open](https://atcoder.jp/contests/dp/tasks/dp_d) |
+| 72 | Knapsack 2 | [Open](https://atcoder.jp/contests/dp/tasks/dp_e) |
+| 73 | LCS | [Open](https://atcoder.jp/contests/dp/tasks/dp_f) |
+| 74 | Longest Path | [Open](https://atcoder.jp/contests/dp/tasks/dp_g) |
+| 75 | Independent Set | [Open](https://atcoder.jp/contests/dp/tasks/dp_p) |
 
 > **Important:** The AtCoder list after Frog 2 is included as broader DP practice. It is **not all strictly 1D DP**.
 
 ---
 
-# 12. HackerRank DP Practice
+# 13. HackerRank DP Practice
 
 | # | Problem | Link |
 |---|---|---|
-| 73 | Max Array Sum | [Open](https://www.hackerrank.com/challenges/max-array-sum/problem) |
-| 74 | The Coin Change Problem | [Open](https://www.hackerrank.com/challenges/coin-change/problem) |
-| 75 | Abbreviation | [Open](https://www.hackerrank.com/challenges/abbr/problem) |
-| 76 | Candies | [Open](https://www.hackerrank.com/challenges/candies/problem) |
-| 77 | Construct the Array | [Open](https://www.hackerrank.com/challenges/construct-the-array/problem) |
-| 78 | Equal | [Open](https://www.hackerrank.com/challenges/equal/problem) |
-| 79 | Sherlock and Cost | [Open](https://www.hackerrank.com/challenges/sherlock-and-cost/problem) |
-| 80 | Decibinary Numbers | [Open](https://www.hackerrank.com/challenges/decibinary-numbers/problem) |
+| 76 | Max Array Sum | [Open](https://www.hackerrank.com/challenges/max-array-sum/problem) |
+| 77 | The Coin Change Problem | [Open](https://www.hackerrank.com/challenges/coin-change/problem) |
+| 78 | Abbreviation | [Open](https://www.hackerrank.com/challenges/abbr/problem) |
+| 79 | Candies | [Open](https://www.hackerrank.com/challenges/candies/problem) |
+| 80 | Construct the Array | [Open](https://www.hackerrank.com/challenges/construct-the-array/problem) |
+| 81 | Equal | [Open](https://www.hackerrank.com/challenges/equal/problem) |
+| 82 | Sherlock and Cost | [Open](https://www.hackerrank.com/challenges/sherlock-and-cost/problem) |
+| 83 | Decibinary Numbers | [Open](https://www.hackerrank.com/challenges/decibinary-numbers/problem) |
 
 ---
 
-# 13. CodeChef DP Practice
+# 14. CodeChef DP Practice
 
 CodeChef has many DP problems spread across contests and practice sections rather than one fixed "1D DP" sheet.
 
 | # | Resource | Link |
 |---|---|---|
-| 81 | CodeChef Dynamic Programming Practice | [Open](https://www.codechef.com/practice/tags/dynamic-programming) |
-| 82 | CodeChef Beginner Problems | [Open](https://www.codechef.com/practice) |
-| 83 | CodeChef Starters | [Open](https://www.codechef.com/contests) |
+| 84 | CodeChef Dynamic Programming Practice | [Open](https://www.codechef.com/practice/tags/dynamic-programming) |
+| 85 | CodeChef Beginner Problems | [Open](https://www.codechef.com/practice) |
+| 86 | CodeChef Starters | [Open](https://www.codechef.com/contests) |
 
 For CodeChef, search the DP practice section by tags and filter for problems whose state is a single index/position.
+
+---
+
+# 15. Additional LeetCode DP Practice
+
+| # | Problem | Platform | Link |
+|---|---|---|---|
+| 87 | Frog Jump | LeetCode | [Open](https://leetcode.com/problems/frog-jump/) |
+| 88 | Unique Paths | LeetCode | [Open](https://leetcode.com/problems/unique-paths/) |
+| 89 | Unique Paths II | LeetCode | [Open](https://leetcode.com/problems/unique-paths-ii/) |
+| 90 | Minimum Path Sum | LeetCode | [Open](https://leetcode.com/problems/minimum-path-sum/) |
+| 91 | Dungeon Game | LeetCode | [Open](https://leetcode.com/problems/dungeon-game/) |
 
 ---
 
@@ -218,18 +240,3 @@ For CodeChef, search the DP practice section by tags and filter for problems who
 
 8. Sequence DP
    dp[i] = best answer ending at i
-```
-
----
-
-## Important classification note
-
-This sheet intentionally separates **strict/core 1D DP** from problems that are commonly solved using a 1D DP array but belong to a broader DP family.
-
-For example:
-
-- **Frog 1, Frog 2, Climbing Stairs, House Robber** → classic 1D DP.
-- **Coin Change / Knapsack** → 1D state after space optimization, but conceptually knapsack DP.
-- **LIS** → sequence DP.
-- **Stock problems** → state-machine DP.
-- **LCS / grid problems** → 2D DP and should not be treated as 1D DP merely because memory can sometimes be optimized.
