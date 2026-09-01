@@ -19,6 +19,7 @@ Problems grouped by source website.
 | 4 | Creating Strings | [Solve](https://cses.fi/problemset/task/1622) |
 | 5 | Exponentiation | [Solve](https://cses.fi/problemset/task/1095) |
 | 6 | Exponentiation II | [Solve](https://cses.fi/problemset/task/1712) |
+| 7 | Removing Digits | [Solve](https://cses.fi/problemset/task/1637) |
 
 ## Codeforces
 
@@ -84,6 +85,11 @@ Problems grouped by source website.
 | 26 | Letter Case Permutation | [Solve](https://leetcode.com/problems/letter-case-permutation/description/) |
 | 27 | Combination Sum | [Solve](https://leetcode.com/problems/combination-sum/description/) |
 | 28 | Word Search II | [Solve](https://leetcode.com/problems/word-search-ii/description/) |
+| 29 | Frog Jump | [Solve](https://leetcode.com/problems/frog-jump/) |
+| 30 | Unique Paths | [Solve](https://leetcode.com/problems/unique-paths/) |
+| 31 | Unique Paths II | [Solve](https://leetcode.com/problems/unique-paths-ii/) |
+| 32 | Minimum Path Sum | [Solve](https://leetcode.com/problems/minimum-path-sum/) |
+| 33 | Dungeon Game | [Solve](https://leetcode.com/problems/dungeon-game/) |
 
 ## GeeksforGeeks
 
@@ -95,23 +101,3 @@ Problems grouped by source website.
 | 4 | Josephus Problem | [Solve](https://www.geeksforgeeks.org/problems/josephus-problem/1#) |
 | 5 | Rat in a Maze | [Solve](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) |
 | 6 | Permutations of a String | [Solve](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) |
-
----
-
-# HW
-
-## CSES - Removing Digits
-
-| # | Title | Link |
-|---|-------|------|
-| 1 | Removing Digits | [Solve](https://cses.fi/problemset/task/1637) |
-
-## LeetCode - Recursive Relation
-
-| # | Title | Link |
-|---|-------|------|
-| 1 | Frog Jump | [Solve](https://leetcode.com/problems/frog-jump/) |
-| 2 | Unique Paths | [Solve](https://leetcode.com/problems/unique-paths/) |
-| 3 | Unique Paths II | [Solve](https://leetcode.com/problems/unique-paths-ii/) |
-| 4 | Minimum Path Sum | [Solve](https://leetcode.com/problems/minimum-path-sum/) |
-| 5 | Dungeon Game | [Solve](https://leetcode.com/problems/dungeon-game/) |
