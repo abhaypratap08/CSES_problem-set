@@ -90,12 +90,8 @@ Problems grouped by source website.
 | 31 | Unique Paths II | [Solve](https://leetcode.com/problems/unique-paths-ii/) |
 | 32 | Minimum Path Sum | [Solve](https://leetcode.com/problems/minimum-path-sum/) |
 | 33 | Dungeon Game | [Solve](https://leetcode.com/problems/dungeon-game/) |
-| 34 | Frog Jump - Submission | [Solve](https://leetcode.com/submissions/detail/2129474358/) |
-| 35 | Submission 2129273856 | [Solve](https://leetcode.com/submissions/detail/2129273856/) |
-| 36 | Submission 2129233135 | [Solve](https://leetcode.com/submissions/detail/2129233135/) |
-| 37 | Submission 2129208038 | [Solve](https://leetcode.com/submissions/detail/2129208038/) |
-| 38 | Triangle | [Solve](https://leetcode.com/problems/triangle/description/?envType=problem-list-v2&envId=dynamic-programming) |
-| 39 | Triangle | [Solve](https://leetcode.com/problems/triangle/description/?envType=problem-list-v2&envId=dynamic-programming) |
+| 34 | Triangle | [Solve](https://leetcode.com/problems/triangle/description/?envType=problem-list-v2&envId=dynamic-programming) |
+| 35 | Triangle | [Solve](https://leetcode.com/problems/triangle/description/?envType=problem-list-v2&envId=dynamic-programming) |
 
 ## GeeksforGeeks
 
