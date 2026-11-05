@@ -1,8 +1,5 @@
 # Rising Coder — Dynamic Programming Question Set
 
-Problems collected from the class messages and the existing list, grouped by platform. Duplicate mentions have been merged. The order within each platform is a suggested progression, not an official difficulty rating.
-
-> **Link note:** GeeksforGeeks items without a supplied URL use a site-search link so the exact practice-page slug can be selected safely.
 
 ## AtCoder
 
@@ -135,7 +132,4 @@ Problems collected from the class messages and the existing list, grouped by pla
 | 52 | Word Break II (140) | [Solve](https://leetcode.com/problems/word-break-ii/) |
 | 53 | Longest String Chain (1048) | [Solve](https://leetcode.com/problems/longest-string-chain/) |
 
-## Coverage notes
-
-- Repeated assignments (for example Frog Jump, Dice Combinations, LCS, Edit Distance, and the interval-DP problems) appear only once.
-- The original list's additional problems have been retained: Frog Jump 2, Knapsack 1/2, Minimizing Coins, Coin Change I/II, Combination Sum IV, Word Break I/II, Longest String Chain, and Best Time to Buy and Sell Stock III.
+## 
