@@ -60,7 +60,10 @@ Problems collected from the class messages and the existing list, grouped by pla
 | 17 | Perfect Sum | [Solve](https://www.geeksforgeeks.org/?s=Perfect%20Sum) |
 | 18 | Minimum Sum Partition | [Solve](https://www.geeksforgeeks.org/?s=Minimum%20Sum%20Partition) |
 | 19 | Rod Cutting | [Solve](https://www.geeksforgeeks.org/problems/rod-cutting0840/1) |
-| 20 | Longest Common Substring | [Solve](https://www.geeksforgeeks.org/?s=Longest%20Common%20Substring) |
+| 20 | Longest Repeating Subsequence | [Solve](https://www.geeksforgeeks.org/problems/longest-repeating-subsequence/1) |
+| 21 | Print LCS | [Solve](https://www.geeksforgeeks.org/?s=Print%20Longest%20Common%20Subsequence) |
+| 22 | Matrix Chain Multiplication | [Solve](https://www.geeksforgeeks.org/?s=Matrix%20Chain%20Multiplication) |
+| 23 | Longest Common Substring | [Solve](https://www.geeksforgeeks.org/?s=Longest%20Common%20Substring) |
 | 21 | Minimum number of deletions and insertions | [Solve](https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1) |
 | 22 | Minimum Cost Path | [Solve](https://www.geeksforgeeks.org/problems/minimum-cost-path3833/1) |
 | 23 | Minimum Deletions to Make Sequence Sorted | [Solve](https://www.geeksforgeeks.org/?s=Minimum%20Deletions%20to%20Make%20Sequence%20Sorted) |
@@ -99,6 +102,7 @@ Problems collected from the class messages and the existing list, grouped by pla
 | 19 | Target Sum (494) | [Solve](https://leetcode.com/problems/target-sum/) |
 | 20 | Last Stone Weight II (1049) | [Solve](https://leetcode.com/problems/last-stone-weight-ii/) |
 | 21 | Ones and Zeroes (474) | [Solve](https://leetcode.com/problems/ones-and-zeroes/) |
+| 22 | Partition Equal Subset Sum (416) | [Solve](https://leetcode.com/problems/partition-equal-subset-sum/) |
 | 22 | Longest Increasing Subsequence (300) | [Solve](https://leetcode.com/problems/longest-increasing-subsequence/) |
 | 23 | Number of Longest Increasing Subsequence (673) | [Solve](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) |
 | 24 | Largest Divisible Subset (368) | [Solve](https://leetcode.com/problems/largest-divisible-subset/) |
@@ -108,7 +112,6 @@ Problems collected from the class messages and the existing list, grouped by pla
 | 28 | Longest Palindromic Subsequence (516) | [Solve](https://leetcode.com/problems/longest-palindromic-subsequence/) |
 | 29 | Delete Operation for Two Strings (583) | [Solve](https://leetcode.com/problems/delete-operation-for-two-strings/) |
 | 30 | Minimum Insertions to Make a String Palindrome (1312) | [Solve](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) |
-| 31 | Longest Repeating Subsequence | [Solve](https://www.geeksforgeeks.org/problems/longest-repeating-subsequence/1) |
 | 32 | Shortest Common Supersequence (1092) | [Solve](https://leetcode.com/problems/shortest-common-supersequence/) |
 | 33 | Distinct Subsequences (115) | [Solve](https://leetcode.com/problems/distinct-subsequences/) |
 | 34 | Edit Distance (72) | [Solve](https://leetcode.com/problems/edit-distance/) |
