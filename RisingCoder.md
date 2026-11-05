@@ -103,15 +103,15 @@ Problems collected from the class messages and the existing list, grouped by pla
 | 20 | Last Stone Weight II (1049) | [Solve](https://leetcode.com/problems/last-stone-weight-ii/) |
 | 21 | Ones and Zeroes (474) | [Solve](https://leetcode.com/problems/ones-and-zeroes/) |
 | 22 | Partition Equal Subset Sum (416) | [Solve](https://leetcode.com/problems/partition-equal-subset-sum/) |
-| 22 | Longest Increasing Subsequence (300) | [Solve](https://leetcode.com/problems/longest-increasing-subsequence/) |
-| 23 | Number of Longest Increasing Subsequence (673) | [Solve](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) |
-| 24 | Largest Divisible Subset (368) | [Solve](https://leetcode.com/problems/largest-divisible-subset/) |
-| 25 | Longest Mountain in Array (845) | [Solve](https://leetcode.com/problems/longest-mountain-in-array/) |
-| 26 | Uncrossed Lines (1035) | [Solve](https://leetcode.com/problems/uncrossed-lines/) |
-| 27 | Longest Common Subsequence (1143) | [Solve](https://leetcode.com/problems/longest-common-subsequence/) |
-| 28 | Longest Palindromic Subsequence (516) | [Solve](https://leetcode.com/problems/longest-palindromic-subsequence/) |
-| 29 | Delete Operation for Two Strings (583) | [Solve](https://leetcode.com/problems/delete-operation-for-two-strings/) |
-| 30 | Minimum Insertions to Make a String Palindrome (1312) | [Solve](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) |
+| 23 | Longest Increasing Subsequence (300) | [Solve](https://leetcode.com/problems/longest-increasing-subsequence/) |
+| 24 | Number of Longest Increasing Subsequence (673) | [Solve](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) |
+| 25 | Largest Divisible Subset (368) | [Solve](https://leetcode.com/problems/largest-divisible-subset/) |
+| 26 | Longest Mountain in Array (845) | [Solve](https://leetcode.com/problems/longest-mountain-in-array/) |
+| 27 | Uncrossed Lines (1035) | [Solve](https://leetcode.com/problems/uncrossed-lines/) |
+| 28 | Longest Common Subsequence (1143) | [Solve](https://leetcode.com/problems/longest-common-subsequence/) |
+| 29 | Longest Palindromic Subsequence (516) | [Solve](https://leetcode.com/problems/longest-palindromic-subsequence/) |
+| 30 | Delete Operation for Two Strings (583) | [Solve](https://leetcode.com/problems/delete-operation-for-two-strings/) |
+| 31 | Minimum Insertions to Make a String Palindrome (1312) | [Solve](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) |
 | 32 | Shortest Common Supersequence (1092) | [Solve](https://leetcode.com/problems/shortest-common-supersequence/) |
 | 33 | Distinct Subsequences (115) | [Solve](https://leetcode.com/problems/distinct-subsequences/) |
 | 34 | Edit Distance (72) | [Solve](https://leetcode.com/problems/edit-distance/) |
@@ -126,18 +126,16 @@ Problems collected from the class messages and the existing list, grouped by pla
 | 43 | Predict the Winner (486) | [Solve](https://leetcode.com/problems/predict-the-winner/) |
 | 44 | Stone Game (877) | [Solve](https://leetcode.com/problems/stone-game/) |
 | 45 | Split Array Largest Sum (410) | [Solve](https://leetcode.com/problems/split-array-largest-sum/) |
-| 46 | Matrix Chain Multiplication pattern | [Solve](https://leetcode.com/problemset/?search=matrix%20chain%20multiplication) |
-| 47 | Palindrome Partitioning II (132) | [Solve](https://leetcode.com/problems/palindrome-partitioning-ii/) |
-| 48 | Minimum Cost to Cut a Stick (1547) | [Solve](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
-| 49 | Remove Boxes (546) | [Solve](https://leetcode.com/problems/remove-boxes/) |
-| 50 | Stone Game II (1140) | [Solve](https://leetcode.com/problems/stone-game-ii/) |
-| 51 | Best Time to Buy and Sell Stock III (123) | [Solve](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |
-| 52 | Word Break (139) | [Solve](https://leetcode.com/problems/word-break/) |
-| 53 | Word Break II (140) | [Solve](https://leetcode.com/problems/word-break-ii/) |
-| 54 | Longest String Chain (1048) | [Solve](https://leetcode.com/problems/longest-string-chain/) |
+| 46 | Palindrome Partitioning II (132) | [Solve](https://leetcode.com/problems/palindrome-partitioning-ii/) |
+| 47 | Minimum Cost to Cut a Stick (1547) | [Solve](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |
+| 48 | Remove Boxes (546) | [Solve](https://leetcode.com/problems/remove-boxes/) |
+| 49 | Stone Game II (1140) | [Solve](https://leetcode.com/problems/stone-game-ii/) |
+| 50 | Best Time to Buy and Sell Stock III (123) | [Solve](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |
+| 51 | Word Break (139) | [Solve](https://leetcode.com/problems/word-break/) |
+| 52 | Word Break II (140) | [Solve](https://leetcode.com/problems/word-break-ii/) |
+| 53 | Longest String Chain (1048) | [Solve](https://leetcode.com/problems/longest-string-chain/) |
 
 ## Coverage notes
 
 - Repeated assignments (for example Frog Jump, Dice Combinations, LCS, Edit Distance, and the interval-DP problems) appear only once.
 - The original list's additional problems have been retained: Frog Jump 2, Knapsack 1/2, Minimizing Coins, Coin Change I/II, Combination Sum IV, Word Break I/II, Longest String Chain, and Best Time to Buy and Sell Stock III.
-- “Matrix Chain Multiplication” is a DP pattern rather than a standalone LeetCode problem, so its link opens a LeetCode problem search. Practice the standard MCM recurrence separately.
